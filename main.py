@@ -9,7 +9,7 @@ import datetime
 params = {
     "engine": "google",
     "q": "Jadwal sholat di semarang hari ini",
-    "hl": "en",
+    "hl": "id",
     "gl": "id",
     "api_key": 'c57e779ec89c6d6c54a88bb1a4374648d0aec15d855fd2b6f2c71c3a8d22b7fa'
 }
